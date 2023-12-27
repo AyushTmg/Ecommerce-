@@ -2,7 +2,7 @@
 
 # Ecommerce 
 
-Developed a functional e-commerce website by following Code with Mosh tutorial
+
 
 
 
